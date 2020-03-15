@@ -1,5 +1,7 @@
 ---
 title: Should it be blocked in my department?
+description: "No. Government of Canada departments are to “enable open access to the Internet” according to TBS policy. Here’s details and answers to questions you may have."
+site_url: "https://shoulditbeblockedinmydepartment.ca/"
 ---
 <!doctype html>
 <html lang="en">
@@ -7,6 +9,16 @@ title: Should it be blocked in my department?
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ title }}</title>
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ title }}">
+    <meta name="twitter:description" content="{{ description }}">
+
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:type" content="website">
+    <meta property=og:url content="{{ site_url }}">
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="/css/style.css">
   </head>
