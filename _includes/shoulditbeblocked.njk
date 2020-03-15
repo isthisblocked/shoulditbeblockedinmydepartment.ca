@@ -1,9 +1,11 @@
 ---
 layout: base.njk
 ---
-<h1>Should it be blocked in my department?</h1>
-<p class="big-no"><strong>No.</strong></p>
+<div class="container s-main">
+  <h1 class="s-title">Should it be blocked in my department?</h1>
+  <p class="s-big-no"><strong title="It’s true! But we’re glad you checked.">No.</strong></p>
 
-<main>
-  {{ content | safe }}
-</main>
+  <main>
+    {{ content | safe }}
+  </main>
+</div>

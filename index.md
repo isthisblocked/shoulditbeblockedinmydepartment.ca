@@ -5,12 +5,13 @@ title: Should it be blocked in my department?
 
 If you work for a Government of Canada department, [a 2018 TBS policy](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32588&section=html) specifies the following:
 
-> Departments are to **enable open access to the Internet** for GC electronic networks and devices, including GC and external Web 2.0 tools and services, to authorized individuals, as per Section 6.1.3 of the Policy on Acceptable Network and Device Use (PANDU).
+> “Departments are to **enable open access to the Internet** for GC electronic networks and devices, including GC and external Web 2.0 tools and services, to authorized individuals, as per Section 6.1.3 of the Policy on Acceptable Network and Device Use (PANDU).
 > 
 > To ensure a consistent user experience government-wide while taking into consideration the departmental risk profile, departments are to reconfigure their web filtering rules to be open by default to the Internet…
+> 
 > Security is more than just locking things down; user experience must also be considered.
 > 
-> Adopting a balanced approach that considers user needs, supported by a pragmatic security program, will result in a more secure environment. Instead of banning access to certain tools and sites, making access open by default and encouraging the secure use of these tools and services will result in risks being better controlled.
+> Adopting a balanced approach that considers user needs, supported by a pragmatic security program, will result in a more secure environment. Instead of banning access to certain tools and sites, making access open by default and encouraging the secure use of these tools and services will result in risks being better controlled.”
 
 Curious what websites (including online collaboration & productivity tools, videoconferencing, and social media platforms) are available or blocked in each department? 
 
