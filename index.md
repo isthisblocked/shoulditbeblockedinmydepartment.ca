@@ -72,4 +72,4 @@ The TBS [Office of the CIO Cybersecurity team](mailto:ZZTBSCYBERS@tbs-sct.gc.ca)
 
 [Me](https://sboots.ca/)! On a Saturday, [inspired by this tweet](https://twitter.com/iBashX/status/1238865058135932935). This is not formal advice and this is not an official Government of Canada website. Take care out there & wash your hands!
 
-_Last updated: March 14, 2020_
+_Last updated: March 14, 2020  [Version history](https://github.com/isthisblocked/shoulditbeblockedinmydepartment.ca)_
