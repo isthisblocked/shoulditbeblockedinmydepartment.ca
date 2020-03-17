@@ -26,6 +26,8 @@ _This is unofficial advice; your measures may vary!_
 
 Send a request to your department’s IT helpdesk, and include a link to the TBS policy above. For collaboration tools, you can mention that you need access to collaborate with external (outside of government) partners or colleagues from other departments, or to support business continuity planning for your team.
 
+This [template letter](https://twitter.com/itsnuyanne/status/1239402224805195776) is a great example of how to get started.
+
 ### Can I use these tools with protected or sensitive information?
 
 Generally speaking, no. By default, you should only use these tools with Unclassified information. 
@@ -58,6 +60,16 @@ Use a departmental acquisition card! Have an executive in your team or branch (w
 
 Unless your team involves hundreds or thousands of people, these monthly purchases will easily fall under the low-dollar-value / sole-source thresholds. Rock and roll.
 
+### What if these tools are hosted in the United States?
+
+That’s okay! (It really is!) As long as you’re only using them with unclassified data, there’s no geographic restriction on where a given website or online tool is hosted. 
+
+If you’re handling information that’s classified as Protected B or above, you should use services geographically located in Canada per the [TBS Policy on Management of IT](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755). As of April 1, 2020, that requirement will be removed as the new [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) takes effect. 
+
+This applies to federal government departments; note that some provinces (namely British Columbia and Ontario) have more strict data residency requirements.
+
+Hosting your information in Canada does not make it more secure. It’s a common myth, though.
+
 ### Should I back up information in these online tools somewhere?
 
 Yes! Your department’s Information Management people will thank you later. When you’ve got a final version of a document (created in an online collaboration tool), put a copy of it in your department’s official systems for the record. Upload it to GCdocs, email it to your departmental email account, add it to your department’s shared drives, etc. 
@@ -72,4 +84,4 @@ The TBS [Office of the CIO Cybersecurity team](mailto:ZZTBSCYBERS@tbs-sct.gc.ca)
 
 [Me](https://sboots.ca/)! On a Saturday, [inspired by this tweet](https://twitter.com/iBashX/status/1238865058135932935). This is not formal advice and this is not an official Government of Canada website. Take care out there & wash your hands!
 
-_Last updated: March 14, 2020  [Version history](https://github.com/isthisblocked/shoulditbeblockedinmydepartment.ca)_
+_Last updated: March 16, 2020  [Version history](https://github.com/isthisblocked/shoulditbeblockedinmydepartment.ca)_
