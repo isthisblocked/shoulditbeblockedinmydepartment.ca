@@ -64,11 +64,11 @@ Unless your team involves hundreds or thousands of people, these monthly purchas
 
 That’s okay! (It really is!) As long as you’re only using them with unclassified data, there’s no geographic restriction on where a given website or online tool is hosted. 
 
-If you’re handling information that’s classified as Protected B or above, you should use services geographically located in Canada per the [TBS Policy on Management of IT](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755). As of April 1, 2020, that requirement will be removed as the new [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) takes effect. 
+As of April 1, 2020, **you no longer need to store information classified as Protected B or above on services geographically located in Canada**. Although this was previously required by the [TBS Policy on Management of IT](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12755), that requirement has been removed from the [Directive on Service and Digital](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32601) that replaced it and is now in effect. 
 
-This applies to federal government departments; note that some provinces (namely British Columbia and Ontario) have more strict data residency requirements.
+This specifically applies to federal government departments; note that some provinces (namely British Columbia and Ontario) have more strict data residency requirements.
 
-Hosting your information in Canada does not make it more secure. It’s a common myth, though.
+Hosting your information in Canada [does not make it more secure](https://sboots.ca/2020/03/29/data-residency-is-security-theatre/). It’s a common myth, though.
 
 ### Should I back up information in these online tools somewhere?
 
@@ -84,4 +84,4 @@ The TBS [Office of the CIO Cybersecurity team](mailto:ZZTBSCYBERS@tbs-sct.gc.ca)
 
 [Me](https://sboots.ca/)! On a Saturday, [inspired by this tweet](https://twitter.com/iBashX/status/1238865058135932935). This is not formal advice and this is not an official Government of Canada website. Take care out there & wash your hands!
 
-_Last updated: March 16, 2020  [Version history](https://github.com/isthisblocked/shoulditbeblockedinmydepartment.ca)_
+_Last updated: June 16, 2020  [Version history](https://github.com/isthisblocked/shoulditbeblockedinmydepartment.ca)_
